@@ -1,0 +1,13 @@
+{
+  "name": "links",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx tailwindcss -i ./input.css -o ./styles.css --watch "
+  },
+  "author": "Nathan Thirza <teraa3xbyte@yahoo.com>",
+  "license": "MIT",
+  "dependencies": {
+    "tailwindcss": "^3.2.4"
+  }
+}
